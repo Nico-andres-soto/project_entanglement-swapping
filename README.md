@@ -1,1 +1,2 @@
-# project_entanglement-swapping
+# project_entanglement-swapping_imtoduction to research 2:
+Entanglement swapping is a quantum process where two particles become entangled without direct interaction, via an intermediary pair. Crucial in quantum communications, it enables long-distance quantum networks by extending entanglement, enhancing secure transmission, and is fundamental for quantum repeaters and teleportation, paving the way for a scalable quantum internet.
