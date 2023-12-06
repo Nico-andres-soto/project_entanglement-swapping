@@ -1,2 +1,3 @@
 # project_entanglement-swapping_imtoduction to research 2:
 Entanglement swapping is a quantum process where two particles become entangled without direct interaction, via an intermediary pair. Crucial in quantum communications, it enables long-distance quantum networks by extending entanglement, enhancing secure transmission, and is fundamental for quantum repeaters and teleportation, paving the way for a scalable quantum internet.
+This code implements iterated entanglement swapping using pytket, integrated with Qiskit Aer for noise simulation, and includes state tomography and fidelity analysis for quantum communication research.
